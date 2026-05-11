@@ -1,0 +1,28 @@
+[project]
+name = "image_to_ascii"
+version = "0.1.0"
+description = "ASCII to Bitmap Image Generator using Python"
+readme = "README.md"
+authors = [
+    { name = "Manu11-Pro" }
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/Manu11-Pro/ascii_to_image"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[project.scripts]
+ascii_to_image = "ascii_to_image.main:main"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
