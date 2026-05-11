@@ -9,18 +9,18 @@ This Project uses built-in Python libraries to convert Bitmap to ASCII!
 - Open a fresh terminal and type :
 
 - ``` bash
-    pip install 
+    pip install ascii_to_image 
     ```
 
 - After the installation, open up a fresh terminal and type :
 
 - ``` bash
-    convert_to_ascii
+    ascii_to_image
     ```
 
-- Select the Bitmap (BMP) Image which you want to convert to ascii
+- Select the ASCII Text File(.txt) which you want to convert to Image
 
-- Select the directory as the destination for ASCII Converted Image
+- Select the directory as the destination for Image Converted ASCII
 
-- The a copy of the bitmap image should be converted to ascii and waiting for you to view in the selected
+- A copy of the ASCII Text File(.txt) should be converted to image and waiting for you to view in the selected
 destination!
