@@ -2,7 +2,7 @@
 
 This is a python project which changes ascii to image!
 
-This Project uses built-in Python libraries to convert Bitmap to ASCII!
+This Project uses built-in Python libraries to convert ASCII to Image!
 
 ## How to Install and Use
 
@@ -20,7 +20,6 @@ This Project uses built-in Python libraries to convert Bitmap to ASCII!
 
 - Select the ASCII Text File(.txt) which you want to convert to Image
 
-- Select the directory as the destination for Image Converted ASCII
+- Select the directory as the destination for ASCII converted to Image
 
-- A copy of the ASCII Text File(.txt) should be converted to image and waiting for you to view in the selected
-destination!
+- A copy of the ASCII Text File(.txt) should be converted to image and waiting for you to view in the selected destination!

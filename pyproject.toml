@@ -1,5 +1,5 @@
 [project]
-name = "image_to_ascii"
+name = "ascii_to_image"
 version = "0.1.0"
 description = "ASCII to Bitmap Image Generator using Python"
 readme = "README.md"
